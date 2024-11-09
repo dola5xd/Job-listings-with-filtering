@@ -14,8 +14,8 @@ export default {
         },
       },
       backgroundImage: {
-        desktopHeader: "url('./assets/images/bg-header-desktop.svg')",
-        mobileHeader: "url('./assets/images/bg-header-mobile.svg')",
+        desktopHeader: "url('./images/bg-header-desktop.svg')",
+        mobileHeader: "url('./images/bg-header-mobile.svg')",
       },
     },
   },
